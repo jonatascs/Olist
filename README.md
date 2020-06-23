@@ -1,7 +1,7 @@
 # Olist
 
 
-#Objetivo
+# Objetivo
 
 O objetivo do trabalho é prever se uma entrega ocorrerá dentro do prazo ou não.
 
@@ -10,7 +10,7 @@ A predição será realizada utilizando dados históricos transacionais e modelo
 Desta forma, a empresa poderá traçar estratégias de relacionamento, desenvolver procedimentos operacionais e ações preventivas para identificar eventuais gargalos e deficiência.
 
 ------
-#Entrega 1
+# Entrega 1
 
 Análise detalhada das variáveis
 • Para as variáveis qualitativas fazer tabelas de frequência
@@ -19,7 +19,7 @@ de dispersão (desvio padrão e coeficiente de variação) e análise gráfica
 (Boxplot e Histograma).
 
 -----
-#Entrega 2
+# Entrega 2
 
 Ajustar todas as técnicas que forem compatíveis com Business Case definido.
 Possíveis técnicas: Regressão linear, Regressão logística, Análise de cluster,
@@ -98,7 +98,7 @@ data estimada de entrega
 data de entrega
 
 
-#Entrega 3
+# Entrega 3
 
 Ajustar ao menos 3 técnicas de Machine Learning.
 
