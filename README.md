@@ -25,6 +25,15 @@ Ajustar todas as técnicas que forem compatíveis com Business Case definido.
 Possíveis técnicas: Regressão linear, Regressão logística, Análise de cluster,
 Árvore de decisão, Análise de cesto de compras, Text mining.
 
+Tratamento das base de dados para modelagem
+
+Dividimos a base final em 80% para treino e 20% para teste.
+Devido a grande diferença entre as categorias 0 e 1, foram utilizadas técnicas de oversampling e undersampling na base de treino para balancear as categorias perdendo o mínimo de informações possíveis.
+Para a categoria 1, triplicamos os dados.
+Para a categoria 0, dividimos a base em 4 partes, sendo que fizemos testes com todas elas para utilizar a que apresentasse os melhores resultados de treino.
+A base de treino final ficou balanceada com aproximadamente 50% dos dados cada categoria.
+
+
 -------
 **Faturamento Trimestral no Estado de São Paulo**
 
