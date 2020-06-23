@@ -83,3 +83,10 @@ data de entrega
 Ajustar ao menos 3 técnicas de Machine Learning.
 
 
+
+####
+Utilizar as plataforma databricks para importar os arquivos
+https://community.cloud.databricks.com/
+
+
+
