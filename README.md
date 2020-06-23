@@ -96,7 +96,7 @@ Ajustar ao menos 3 técnicas de Machine Learning.
 
 Tratamento das base de dados para modelagem
 
-Dividimos a base final em 80% para treino e 20% para teste.
+A base final foi dividida em 80% para treino e 20% para teste.
 Devido a grande diferença entre as categorias 0 e 1, foram utilizadas técnicas de oversampling e undersampling na base de treino para balancear as categorias perdendo o mínimo de informações possíveis.
 Para a categoria 1, triplicamos os dados.
 Para a categoria 0, dividimos a base em 4 partes, sendo que fizemos testes com todas elas para utilizar a que apresentasse os melhores resultados de treino.
