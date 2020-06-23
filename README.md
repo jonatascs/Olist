@@ -1,5 +1,15 @@
 # Olist
 
+
+#Objetivo
+
+O objetivo do trabalho é prever se uma entrega ocorrerá dentro do prazo ou não.
+
+A predição será realizada utilizando dados históricos transacionais e modelos estatísticos e algoritmos de Machine Learning, para obter os eventos ligados a compra para saber se haverá atrasos ou não de uma entrega.
+ 
+Desta forma, a empresa poderá traçar estratégias de relacionamento, desenvolver procedimentos operacionais e ações preventivas para identificar eventuais gargalos e deficiência.
+
+------
 #Entrega 1
 
 Análise detalhada das variáveis
@@ -8,6 +18,7 @@ Análise detalhada das variáveis
 de dispersão (desvio padrão e coeficiente de variação) e análise gráfica
 (Boxplot e Histograma).
 
+-----
 #Entrega 2
 
 Ajustar todas as técnicas que forem compatíveis com Business Case definido.
@@ -84,9 +95,13 @@ Ajustar ao menos 3 técnicas de Machine Learning.
 
 
 
-####
+-----
+
 Utilizar as plataforma databricks para importar os arquivos
 https://community.cloud.databricks.com/
+
+Referência:
+https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 
 
